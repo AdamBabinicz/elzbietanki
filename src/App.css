@@ -181,6 +181,11 @@ p {
     padding-top: 50%;
     height: 80vh;
   }
+  .back h2 {
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+  }
   .flexSB {
     flex-direction: column;
   }
