@@ -169,6 +169,9 @@ p {
 }
 
 @media only screen and (max-width: 768px) {
+  .container {
+    min-width: 100%;
+  }
   .grid,
   .grid2,
   .grid3 {

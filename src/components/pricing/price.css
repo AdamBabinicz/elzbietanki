@@ -60,3 +60,9 @@
   background: rgb(201, 201, 201);
   color: #fff;
 }
+
+@media only screen and (max-width: 768px) {
+  .faq {
+    max-width: 90%;
+  }
+}

@@ -47,6 +47,9 @@ footer .container {
 }
 footer .box {
   flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 0.5rem;
 }
 footer .logo {
   display: block;
@@ -135,7 +138,7 @@ footer .container .box a svg {
 @media only screen and (max-width: 768px) {
   .newsletter .left,
   .newsletter .right {
-    padding: 0;
+    padding: 0 1rem;
     margin-bottom: 1rem;
   }
   .newsletter .row {
@@ -143,5 +146,6 @@ footer .container .box a svg {
   }
   footer .container {
     grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0.5rem;
   }
 }
