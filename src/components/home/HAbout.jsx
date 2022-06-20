@@ -22,11 +22,11 @@ const HAbout = () => {
                   <div className="content flex">
                     <div className="left">
                       <div className="img">
-                        <img src={val.cover} alt="" />
+                        <img src={val.cover} alt="..." />
                       </div>
                     </div>
                     <div className="text">
-                      <h1>{val.coursesName}</h1>
+                      <h2>{val.coursesName}</h2>
                       <div className="rate">
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>
@@ -40,7 +40,7 @@ const HAbout = () => {
                           <>
                             <div className="box">
                               <div className="dimg">
-                                <img src={details.dcover} alt="" />
+                                <img src={details.dcover} alt="..." />
                               </div>
                               <div className="para">
                                 <h4>{details.name}</h4>
