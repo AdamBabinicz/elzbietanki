@@ -11,7 +11,7 @@ const CoursesCard = () => {
           {coursesCard.map((val) => {
             return (
               <div className="items box">
-                <div className="content flex">
+                <div className="content">
                   <div className="left">
                     <div className="img">
                       <img src={val.cover} alt="..." />
