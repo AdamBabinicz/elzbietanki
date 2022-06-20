@@ -39,6 +39,7 @@
     background-position: right;
     padding-top: 50%;
     height: 80vh;
+    padding: 0;
   }
   .hero .row {
     width: 100%;
