@@ -72,6 +72,8 @@
   .aboutHome {
     margin-top: 30%;
     margin-bottom: 3rem;
+    height: 100%;
+    padding: 0 1rem;
   }
   .aboutHome .container {
     flex-direction: column-reverse;

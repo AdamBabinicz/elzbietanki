@@ -172,6 +172,10 @@ p {
   .container {
     min-width: 100%;
   }
+  #heading {
+    margin-top: 2rem;
+    padding: 0 1rem;
+  }
   .grid,
   .grid2,
   .grid3 {
