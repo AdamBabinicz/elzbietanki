@@ -65,9 +65,7 @@ const Header = () => {
         </p>
         <br />
         <p>
-          <em>
-            pl.aleteia.org/2022/06/11/meczenniczki-elzbietanskie-nowe-oredowniczki-wszystkich-ktorzy-doznaja-przemocy
-          </em>
+          <em>pl.aleteia.org/2022/06/11/meczenniczki-elzbietanskie</em>
         </p>
       </Modal>
     </>
