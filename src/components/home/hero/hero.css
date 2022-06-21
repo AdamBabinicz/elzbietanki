@@ -38,10 +38,10 @@
       url("../../../../public/images/8.webp") center/cover no-repeat;
     background-position: right;
     /* padding-top: 50%; */
-    min-height: 100vh;
+    min-height: 100%;
     padding: 0;
     bottom: 0;
-    background: greenyellow;
+    background: goldenrod;
   }
   .hero .row {
     width: 100%;
