@@ -173,8 +173,8 @@ p {
     width: 100%;
   }
   #heading {
-    margin-top: 2rem;
-    padding: 0 1rem;
+    margin: 2rem;
+    padding: 2rem;
   }
   .grid,
   .grid2,
@@ -197,7 +197,7 @@ p {
     flex-direction: column;
   }
   .marigin {
-    margin-top: 85%;
+    /* margin-top: 85%; */
   }
   .box {
     justify-content: flex-end;

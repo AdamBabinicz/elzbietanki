@@ -31,7 +31,7 @@
 
 @media only screen and (max-width: 768px) {
   .marigin {
-    /* height: 40vh; */
+    height: 40vh;
   }
   .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)),
@@ -43,5 +43,8 @@
   }
   .hero .row {
     width: 100%;
+    height: 100%;
+    margin-top: 5rem;
+    padding: 5rem 0;
   }
 }
