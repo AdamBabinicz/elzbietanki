@@ -37,11 +37,11 @@
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)),
       url("../../../../public/images/8.webp") center/cover no-repeat;
     background-position: right;
-    padding-top: 50%;
+    /* padding-top: 50%; */
     min-height: 100vh;
     padding: 0;
     bottom: 0;
-    background: violet;
+    background: greenyellow;
   }
   .hero .row {
     width: 100%;
