@@ -40,7 +40,8 @@
     padding-top: 50%;
     min-height: 100vh;
     padding: 0;
-    background: orange;
+    bottom: 0;
+    background: violet;
   }
   .hero .row {
     width: 100%;
