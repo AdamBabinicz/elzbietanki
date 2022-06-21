@@ -197,7 +197,7 @@ p {
     flex-direction: column;
   }
   .marigin {
-    /* margin-top: 85%; */
+    margin-top: 85%;
   }
   .box {
     justify-content: flex-end;
